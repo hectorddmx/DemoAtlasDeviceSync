@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting up Atlas App Services for iOS.md",
+                "file": "realm/Setting up Atlas App Services for iOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac76bbd71987b454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "realm/Setting up Atlas App Services for iOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting up Atlas App Services for iOS.md",
+                "file": "realm/Setting up Atlas App Services for iOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting up Atlas App Services for iOS.md",
+                "file": "realm/Setting up Atlas App Services for iOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting up Atlas App Services for iOS.md"
+                "file": "realm/Setting up Atlas App Services for iOS.md"
               }
             }
           }
@@ -136,6 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ef91b7950678426",
-  "lastOpenFiles": []
+  "active": "ac76bbd71987b454",
+  "lastOpenFiles": [
+    "realm/Pasted image 20221228115127.png",
+    "obsidian/Fix image links in obsidian + github.md",
+    "realm/Setting up Atlas App Services for iOS.md"
+  ]
 }

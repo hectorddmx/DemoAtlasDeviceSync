@@ -1,0 +1,1 @@
+https://forum.obsidian.md/t/include-images-when-pushing-to-github/14315
