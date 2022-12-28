@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "7a2d7c7b908db4b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "814b99d96188c4ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ef91b7950678426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting up Atlas App Services for iOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1378fa5aeac7b535",
+    "type": "split",
+    "children": [
+      {
+        "id": "d627a2ed7664a78e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a06549a12d8f4db0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a09bb5788ebdb78a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fd9953417ebdd28",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3593ffedfaf822d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d5a190dc06c29a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5b1b281c0002483",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setting up Atlas App Services for iOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2568c6487125a566",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setting up Atlas App Services for iOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92402b145a8dad1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "696b7f4f7274f9d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setting up Atlas App Services for iOS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ef91b7950678426",
+  "lastOpenFiles": []
+}
