@@ -21,7 +21,7 @@ npx realm-cli apps create -n RealTimeSyncPoCiOS --template swiftui.todo.flex \
 After that I will get a new app generated with a [dashboard](https://realm.mongodb.com/groups/63ac7aee96b6c7351edcda0f/apps/63ac9c12a1f62d9f292956c0/dashboard)
 
 And new code was added to my repo with the template generator
-![](../../Pasted%20image%2020221228135350.png)
+![](Pasted%20image%2020221228135350.png)
 I'll end create a new file here Realm.plist.base and generate it with the example information and add the original Realm.plist to the project's root .gitignore
 
 I would then open the project in Xcode that was generated located in the frontend folder:

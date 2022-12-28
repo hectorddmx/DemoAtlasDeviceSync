@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "realm/RealTimeSyncPoc/🟢  App up and runnning  with CLI and how to get the AppID and API key.md",
+                "file": "realm/RealTimeSyncPoc/🟢  App up and runnning for iOS  with CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d478c9dd2fe0b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "realm/RealTimeSyncPoc/🟢  App up and runnning for iOS  with CLI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "realm/RealTimeSyncPoc/🟢  App up and runnning  with CLI and how to get the AppID and API key.md",
+                "file": "realm/RealTimeSyncPoc/🟢  App up and runnning for iOS  with CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "realm/RealTimeSyncPoc/🟢  App up and runnning  with CLI and how to get the AppID and API key.md",
+                "file": "realm/RealTimeSyncPoc/🟢  App up and runnning for iOS  with CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "realm/RealTimeSyncPoc/🟢  App up and runnning  with CLI and how to get the AppID and API key.md"
+                "file": "realm/RealTimeSyncPoc/🟢  App up and runnning for iOS  with CLI.md"
               }
             }
           }
@@ -209,8 +221,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb8f5eb753ff58ce",
+  "active": "4d478c9dd2fe0b98",
   "lastOpenFiles": [
+    "realm/RealTimeSyncPoc/🟢 App up and running for React native with CLI.md",
+    "realm/RealTimeSyncPoc/🟢  App up and runnning for iOS  with CLI.md",
     "realm/RealTimeSyncPoc/Setting up Schemas.md",
     "realm/RealTimeSyncPoc/SwiftUI iOS Tutorial.md",
     "realm/RealTimeSyncPoc/Setting up Realm SDKs for Swift.md",
@@ -218,7 +232,6 @@
     "realm/RealTimeSyncPoc/Pasted image 20221228115127.png",
     "realm/RealTimeSyncPoc/Configuring authentication or users.md",
     "realm/RealTimeSyncPoc/Pasted image 20221228121657.png",
-    "realm/RealTimeSyncPoc/Pasted image 20221228130117.png",
-    "obsidian/Fix image links in obsidian + github.md"
+    "realm/RealTimeSyncPoc/Pasted image 20221228130117.png"
   ]
 }
