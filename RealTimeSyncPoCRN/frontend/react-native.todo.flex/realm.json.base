@@ -1,0 +1,7 @@
+
+{
+    "appId": "YOUR APP ID HERE",
+    "appUrl": "YOUR APP URL HERE",
+    "baseUrl": "https://realm.mongodb.com",
+    "dataSourceName": "mongodb-atlas"
+}
